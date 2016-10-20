@@ -1,9 +1,6 @@
 diff a/hellopeople.txt b/hellopeople.txt	(rejected hunks)
-@@ -8,6 +8,7 @@
- <<<<<<< HEAD
- ewffpipfew
- demotivator
-+=======
+@@ -2,3 +2,4 @@
+ 123
+ sfasdf
  ������
- new row
- >>>>>>> 46b19707b6c6a5648bdd32e0b772b8aad4153444
++new row
