@@ -2,4 +2,8 @@ hello people
 123
 sfasdf
 ûגאפûג
+<<<<<<< HEAD
+111
+=======
 new row
+>>>>>>> 46b19707b6c6a5648bdd32e0b772b8aad4153444
